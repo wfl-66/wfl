@@ -1,5 +1,0 @@
-redis端口号为6379，
-redis数据类型有五种，
-分别是set zset string hash list
-持久化方式有两种，支持的库有16个，
-hash槽有16384个。
